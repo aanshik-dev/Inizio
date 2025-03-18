@@ -1920,6 +1920,11 @@ textarea {
    margin: 10px 0px;
    transition: all 0.1s ease-in-out;
 }
+#contact{
+   text-decoration: none;
+   color: #ffffff;
+}
+
 
 .icons {
    display: flex;
