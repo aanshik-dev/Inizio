@@ -1,25 +1,77 @@
 # 🏆 Inizio — Annual Fest Website
 
-**Inizio'25** is the official website of *Inizio* the annual entrepreneurship summit of **IIIT-G** (Indian Institute of Information Technology, Guwahati).  
-This website showcases the fest’s events, teams, sponsors, and contact information in a modern and responsive web design. :contentReference[oaicite:1]{index=1}
+[![GitHub Stars](https://img.shields.io/github/stars/aanshik-dev/Inizio?style=flat-square&color=ff8c00)](https://github.com/aanshik-dev/Inizio/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/aanshik-dev/Inizio?style=flat-square&color=5860ff)](https://github.com/aanshik-dev/Inizio/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/aanshik-dev/Inizio?style=flat-square&color=2ecc71)](https://github.com/aanshik-dev/Inizio/issues)
+[![GitHub license](https://img.shields.io/github/license/aanshik-dev/Inizio?style=flat-square&color=e74c3c)](https://github.com/aanshik-dev/Inizio/blob/main/LICENSE)
+
+## 🌟 About the Project
+
+**Inizio** is the official website for the annual festival/entrepreneurship summit of the Indian Institute of Information Technology, Guwahati (**IIIT-G**).
+
+The website is designed to be the central hub of information for the annual event, providing attendees, sponsors, and participants with everything they need to know, from event schedules and team details to contact information.
+
+This project is a modern, responsive, multi-page static site built to provide a clean and engaging user experience.
+
+### 🔗 Live Demo
+
+Experience the live website hosted on GitHub Pages:
+[**aanshik-dev.github.io/Inizio/**](https://aanshik-dev.github.io/Inizio/)
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-✨ **Responsive Multi-Page Layout**  
-✔ Home / Events / Teams / Sponsors / Contact pages  
-✔ Clean UI with navigation bar  
-✔ Interactive sections for event and team details  
-✔ Mobile-friendly design
-
-📂 Built with:  
-- HTML  
-- CSS  
-- JavaScript  
-- Static assets (images, icons, etc.) :contentReference[oaicite:2]{index=2}
+* **Responsive Multi-Page Layout:** Fully optimized for desktop, tablet, and mobile devices.
+* **Dedicated Sections:** Cleanly organized pages for:
+    * Home (`index.html`)
+    * Events (`events.html`)
+    * Teams (`teams.html`)
+    * Sponsors (`sponsors.html`)
+    * Contact (`contact.html`)
+* **Clean UI/UX:** Intuitive navigation and a modern, engaging design aesthetic.
+* **Interactive Components:** Sections for detailed event listings and team profiles.
 
 ---
 
-## 📁 Repository Structure
+## 🛠 Technologies Used
 
+This project is a static website built with the following core web technologies:
+
+* **HTML5** (Structure)
+* **CSS3** (Styling and Design)
+* **JavaScript** (Interactivity and UI/UX enhancements)
+* **Static Assets:** Images, fonts, and icons.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to get a local copy of the project up and running.
+
+### Prerequisites
+
+You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your system.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/aanshik-dev/Inizio.git](https://github.com/aanshik-dev/Inizio.git)
+    ```
+
+2.  **Navigate into the project directory:**
+    ```bash
+    cd Inizio
+    ```
+
+3.  **Open the website:**
+    Since this is a static site (HTML/CSS/JS), you can simply open the `index.html` file in your preferred web browser to view the project locally.
+
+    *(For development purposes, consider using a simple local server extension like 'Live Server' in VS Code for live-reloading features.)*
+
+---
+
+## 📁 Project Structure
+
+The repository is structured logically to separate content, styling, and functionality:
