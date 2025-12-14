@@ -75,7 +75,7 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 ## 📁 Project Structure
 
 The repository is structured logically to separate content, styling, and functionality:
-
+```
 Inizio/
 ├── assets/               # Contains all media, styles, and scripts for the site
 │   ├── css/              # External CSS files for styling
@@ -87,6 +87,7 @@ Inizio/
 ├── sponsors.html         # Page listing the sponsors of the annual fest
 ├── teams.html            # Page introducing the organizing teams and members
 └── README.md             # Project documentation (the file I just helped generate)
+```
 ---
 
 ## 📧 Contact
