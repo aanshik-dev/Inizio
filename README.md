@@ -1,6 +1,6 @@
 # 🏆 Inizio — Annual Fest Website
 
-**Inizio** is the official website for *Inizio*, the annual cultural and technical fest of **IIIT-G** (Indian Institute of Information Technology, Guwahati).  
+**Inizio'25** is the official website of *Inizio* the annual entrepreneurship summit of **IIIT-G** (Indian Institute of Information Technology, Guwahati).  
 This website showcases the fest’s events, teams, sponsors, and contact information in a modern and responsive web design. :contentReference[oaicite:1]{index=1}
 
 ---
