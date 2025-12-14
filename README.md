@@ -75,3 +75,35 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 ## 📁 Project Structure
 
 The repository is structured logically to separate content, styling, and functionality:
+
+Inizio/ ├── assets/ # Contains all images, fonts, icons, and style/script files ├── contact.html # Contact page for the fest ├── events.html # Events schedule and details page ├── index.html # Main landing page ├── sponsors.html # List of all fest sponsors ├── teams.html # Details about the organizing teams └── README.md # This file
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 📧 Contact
+
+**Aanshik Dev**
+* GitHub: [@aanshik-dev](https://github.com/aanshik-dev)
+
+Project Link: [**github.com/aanshik-dev/Inizio**](https://github.com/aanshik-dev/Inizio)
