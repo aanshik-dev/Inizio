@@ -76,29 +76,17 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 
 The repository is structured logically to separate content, styling, and functionality:
 
-Inizio/ ├── assets/ # Contains all images, fonts, icons, and style/script files ├── contact.html # Contact page for the fest ├── events.html # Events schedule and details page ├── index.html # Main landing page ├── sponsors.html # List of all fest sponsors ├── teams.html # Details about the organizing teams └── README.md # This file
-
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Inizio/
+├── assets/               # Contains all media, styles, and scripts for the site
+│   ├── css/              # External CSS files for styling
+│   ├── images/           # All project-related images and graphics
+│   └── js/               # JavaScript files for interactivity
+├── contact.html          # Dedicated page for contact and location information
+├── events.html           # Page detailing the fest's various events
+├── index.html            # The main landing page / Home page of the website
+├── sponsors.html         # Page listing the sponsors of the annual fest
+├── teams.html            # Page introducing the organizing teams and members
+└── README.md             # Project documentation (the file I just helped generate)
 ---
 
 ## 📧 Contact
