@@ -22,15 +22,15 @@ Experience the live website hosted on GitHub Pages:
 
 ## ✨ Features
 
-* **Responsive Multi-Page Layout:** Fully optimized for desktop, tablet, and mobile devices.
-* **Dedicated Sections:** Cleanly organized pages for:
-    * Home (`index.html`)
-    * Events (`events.html`)
-    * Teams (`teams.html`)
-    * Sponsors (`sponsors.html`)
-    * Contact (`contact.html`)
-* **Clean UI/UX:** Intuitive navigation and a modern, engaging design aesthetic.
-* **Interactive Components:** Sections for detailed event listings and team profiles.
+- **Responsive Multi-Page Layout:** Fully optimized for desktop, tablet, and mobile devices.
+- **Dedicated Sections:** Cleanly organized pages for:
+  - Home (`index.html`)
+  - Events (`events.html`)
+  - Teams (`teams.html`)
+  - Sponsors (`sponsors.html`)
+  - Contact (`contact.html`)
+- **Clean UI/UX:** Intuitive navigation and a modern, engaging design aesthetic.
+- **Interactive Components:** Sections for detailed event listings and team profiles.
 
 ---
 
@@ -38,10 +38,10 @@ Experience the live website hosted on GitHub Pages:
 
 This project is a static website built with the following core web technologies:
 
-* **HTML5** (Structure)
-* **CSS3** (Styling and Design)
-* **JavaScript** (Interactivity and UI/UX enhancements)
-* **Static Assets:** Images, fonts, and icons.
+- **HTML5** (Structure)
+- **CSS3** (Styling and Design)
+- **JavaScript** (Interactivity and UI/UX enhancements)
+- **Static Assets:** Images, fonts, and icons.
 
 ---
 
@@ -56,11 +56,13 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 ### Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone [https://github.com/aanshik-dev/Inizio.git](https://github.com/aanshik-dev/Inizio.git)
     ```
 
 2.  **Navigate into the project directory:**
+
     ```bash
     cd Inizio
     ```
@@ -68,13 +70,14 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 3.  **Open the website:**
     Since this is a static site (HTML/CSS/JS), you can simply open the `index.html` file in your preferred web browser to view the project locally.
 
-    *(For development purposes, consider using a simple local server extension like 'Live Server' in VS Code for live-reloading features.)*
+    _(For development purposes, consider using a simple local server extension like 'Live Server' in VS Code for live-reloading features.)_
 
 ---
 
 ## 📁 Project Structure
 
 The repository is structured logically to separate content, styling, and functionality:
+
 ```
 Inizio/
 ├── assets/               # Contains all media, styles, and scripts for the site
@@ -88,11 +91,13 @@ Inizio/
 ├── teams.html            # Page introducing the organizing teams and members
 └── README.md             # Project documentation (the file I just helped generate)
 ```
+
 ---
 
 ## 📧 Contact
 
 **Aanshik Dev**
-* GitHub: [@aanshik-dev](https://github.com/aanshik-dev)
+
+- GitHub: [@aanshik-dev](https://github.com/aanshik-dev)
 
 Project Link: [**github.com/aanshik-dev/Inizio**](https://github.com/aanshik-dev/Inizio)
