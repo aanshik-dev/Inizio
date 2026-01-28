@@ -1,9 +1,9 @@
 # 🏆 Inizio — Annual Fest Website
 
-[![GitHub Stars](https://img.shields.io/github/stars/aanshik-dev/Inizio?style=flat-square&color=ff8c00)](https://github.com/aanshik-dev/Inizio/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/aanshik-dev/Inizio?style=flat-square&color=5860ff)](https://github.com/aanshik-dev/Inizio/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/aanshik-dev/Inizio?style=flat-square&color=2ecc71)](https://github.com/aanshik-dev/Inizio/issues)
-[![GitHub license](https://img.shields.io/github/license/aanshik-dev/Inizio?style=flat-square&color=e74c3c)](https://github.com/aanshik-dev/Inizio/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/aanshik-singh/Inizio?style=flat-square&color=ff8c00)](https://github.com/aanshik-singh/Inizio/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/aanshik-singh/Inizio?style=flat-square&color=5860ff)](https://github.com/aanshik-singh/Inizio/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/aanshik-singh/Inizio?style=flat-square&color=2ecc71)](https://github.com/aanshik-singh/Inizio/issues)
+[![GitHub license](https://img.shields.io/github/license/aanshik-singh/Inizio?style=flat-square&color=e74c3c)](https://github.com/aanshik-singh/Inizio/blob/main/LICENSE)
 
 ## 🌟 About the Project
 
@@ -16,7 +16,7 @@ This project is a modern, responsive, multi-page static site built to provide a 
 ### 🔗 Live Demo
 
 Experience the live website hosted on GitHub Pages:
-[**aanshik-dev.github.io/Inizio/**](https://aanshik-dev.github.io/Inizio/)
+[**aanshik-singh.github.io/Inizio/**](https://aanshik-singh.github.io/Inizio/)
 
 ---
 
@@ -58,7 +58,7 @@ You need a web browser (like Chrome, Firefox, or Edge) and Git installed on your
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/aanshik-dev/Inizio.git](https://github.com/aanshik-dev/Inizio.git)
+    git clone [https://github.com/aanshik-singh/Inizio.git](https://github.com/aanshik-singh/Inizio.git)
     ```
 
 2.  **Navigate into the project directory:**
@@ -98,6 +98,6 @@ Inizio/
 
 **Aanshik Dev**
 
-- GitHub: [@aanshik-dev](https://github.com/aanshik-dev)
+- GitHub: [@aanshik-singh](https://github.com/aanshik-singh)
 
-Project Link: [**github.com/aanshik-dev/Inizio**](https://github.com/aanshik-dev/Inizio)
+Project Link: [**github.com/aanshik-singh/Inizio**](https://github.com/aanshik-singh/Inizio)
